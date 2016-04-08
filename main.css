@@ -1,0 +1,24 @@
+/* Inserta tu CSS aqui */
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.caja
+{
+	width: 200px;
+	height: 200px;
+	position:static;
+}
+.box1
+{
+	background:#DC143C;
+}
+.box2
+{
+	background:#4682B4;
+}
+.box3
+{
+	background:#228B22;
+}
