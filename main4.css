@@ -1,0 +1,40 @@
+/* Inserta tu CSS aqui */
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.caja
+{
+	width: 200px;
+	height: 200px;
+	position:absolute;
+	
+}
+.box1
+{
+	background:#DC143C;
+	left:0;
+	top:0;
+	
+}
+.box2
+{
+	background:#4682B4;
+	right:0;
+	top:0;
+	
+}
+
+.box3
+{
+	background:#228B22;
+	left:0;
+	bottom:0;
+}
+.box4
+{
+	background:#FFD700;
+	right:0;
+	bottom:0;
+}
